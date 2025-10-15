@@ -21,5 +21,5 @@ I absolutely love coding and making things in general, from small helping tools 
 
 
 ### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gitryzn&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitryzn&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gitryxan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitryxan&layout=compact&theme=tokyonight)
